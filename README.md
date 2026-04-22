@@ -1,3 +1,7 @@
+# Legacy demo project
+
+This project was built during learning process (back in mid 2024) and is not representing my current coding skills, but is availabe as a part of my personal development timeline.
+
 # LaBombaJS
 
 This demo application is a demonstration of my JS skills. The idea is to display all dance events, schools, clubs and festivals related to dancing.  It's loaded with static data, but it can quite easily be adapted to work with real time data.
